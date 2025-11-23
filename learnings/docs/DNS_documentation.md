@@ -140,8 +140,7 @@ DNS uses a hierarchical system with multiple levels of servers:
 │  Connects to google  │ Browser loads google.com
 └──────────────────────┘
 ```
-
-![alt text](image-1.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a07c9e24-c8ed-4172-897a-0667b0330833" />
 
 ### Detailed Steps
 
